@@ -10,5 +10,12 @@ We choose the nearby spiral galaxy NGC 4321 as our test example to produce a sui
 
 ### 2. JWST RGB image
 
+* red = `F770W` + `F1000W` + `F1130W` + `F2100W`
+* green = `F360M` + `F770W`
+* blue = `F300M` + `F335M`
 
 ### 3. MUSE-JWST-ALMA composite image
+
+* red = `H-alpha` ionised gas emission (MUSE)
+* green = `F770W` polycyclic aromatic hydrocarbon (PAH) dust emission (JWST)
+* blue = `CO(2-1)` molecular line emission (ALMA)
